@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+runs/
+figures/*
+!figures/.gitkeep
+data/raw/*
+!data/raw/README.md
+data/raw/*.xlsx
+data/raw/*.json

@@ -1,0 +1,4 @@
+﻿mode,records,fault_fixtures,invalid_forwarded,invalid_total,misreport_forwarded,misreport_total,unsupported_claims_forwarded,unsupported_claims_total,flagged_faults_including_unknown,valid_control_false_rejections,valid_controls,unknown_missing_evidence,note
+V0,44,36,12,12,9,9,35,35,0,0,8,0,V0/V1 forwarded claim is unverified; not an issued proof
+V1,44,36,0,12,0,9,14,35,21,0,8,0,V0/V1 forwarded claim is unverified; not an issued proof
+V2,44,36,0,12,0,9,0,35,36,0,8,1,V0/V1 forwarded claim is unverified; not an issued proof
