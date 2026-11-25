@@ -97,4 +97,4 @@ python -m webbrowser "https://www.mcm.edu.cn/html_cn/node/27b6e148f8113f09b0269f
 
 ## License and citation
 
-The included PASCS release is prepared under the MIT License. The authors should fill the copyright holder and author names before publication. License terms for separately obtained competition materials come from their publisher. Use CITATION.cff to cite the software, and add the manuscript reference and release identifier after publication.
+The included PASCS release is prepared under the MIT License.  License terms for separately obtained competition materials come from their publisher. Use CITATION.cff to cite the software, and add the manuscript reference and release identifier after publication.
